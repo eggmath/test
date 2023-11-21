@@ -1,8 +1,8 @@
 {
   "title": "Transformers (2019 IDW Reboot)",
-  "description": "Includes the main series and all the spin-offs and side material. First 5 chapters here are the first 5 volume collections for this reboot. The subsequent chapters are the individual issues for the final volume 6, but that was not ripped so I've ordered them according to release date.",
-  "artist": "",
-  "author": "Brian Ruckley et. al",
+  "description": "Includes the main series and all the spin-offs and side material of the IDW 2019 Transformers reboot. Each chapter corresponds to its respective volume colllecting the individual issues. Vols. 1 to 5 are rips from the official source and vol. 6 is a fan made collection of the remaining issues.",
+  "artist": "Angel Hernandez et al.",
+  "author": "Brian Ruckley et al.",
   "cover": "https://tfwiki.net/mediawiki/images2/d/d5/TF1_cvrRI_A.jpg",
   "chapters": {
     "1": {
@@ -1494,6 +1494,16 @@
           "https://drive.google.com/uc?export=view&id=1RaARfl7PP_eDlCJqxbYMwmiof3ijOjVp",
           "https://drive.google.com/uc?export=view&id=1qxhaKHRV1-O75O-u-Mnao_sxYWV3VVfG",
           "https://drive.google.com/uc?export=view&id=1fmhfbMDjqfFIVWTk0HArahtxZpPQXmMt"
+        ]
+      }
+    },
+    "6": {
+      "title": "Vol. 6 - War's End",
+      "volume": "6",
+      "last_updated": "1700558418",
+      "groups": {
+        "": [
+          ""
         ]
       }
     }
