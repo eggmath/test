@@ -1,12 +1,12 @@
 {
   "title": "Green Lantern (2023)",
-  "description": "",
-  "artist": "",
-  "author": "",
+  "description": "Spinning out of the events of Dark Crisis, the Guardians of Oa at the heart of the Green Lantern Corps have quarantined Sector 2814, home of the planet Earth—and its champion along with it! A heartbreaking defeat has sent Hal reeling, returning home to rediscover his roots...and find the man responsible for ruining his life: Sinestro.\n\nFrom the visionary team of Jeremy Adams and Xermanico (who brought you the epic Flashpoint Beyond) comes a tale of redemption, loss, and finding out that maybe...just maybe...you can go home again. At least if you're willing to hot-wire a power ring to do it.",
+  "artist": "Xermanico",
+  "author": "Jeremy Adams",
   "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1123453.jpg?1700012166",
   "chapters": {
     "5": {
-      "title": "Gift of Fear",
+      "title": "Gift of Fear, Wayward Son, Part Two",
       "volume": "",
       "last_updated": "1701724615",
       "groups": {
@@ -51,6 +51,49 @@
           "https://drive.google.com/uc?export=view&id=1ru3XNjKBp_7HqnnBIRSThRENZGIG-n1M",
           "https://drive.google.com/uc?export=view&id=15Ykg5wcVt6hvS-G2SqWQ-auIlmYq1Gys",
           "https://drive.google.com/uc?export=view&id=1qv5m-Qsfn5ROLbmyq2k9BhvZTRtjAyBN"
+        ]
+      }
+    },
+    "6": {
+      "title": "The Will to Rage; Wayward Son: Part Three",
+      "volume": "",
+      "last_updated": "1704424976",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1V5nIi6IfETBdjDlhSHnwodPwatxPYrOJ",
+          "https://drive.google.com/uc?export=view&id=1QoEarMi0N6B5Hvqh6aD2aNN3OjV7FwdD",
+          "https://drive.google.com/uc?export=view&id=10Y7RP5OEDg9yVfvf0auIqPvvfoeGupCA",
+          "https://drive.google.com/uc?export=view&id=1WvhO9YE2tR5Aa6YCOUCjz-jTNCK2pgj8",
+          "https://drive.google.com/uc?export=view&id=1ADjNUlJ1lqWtpqEnisBeaIPJKaNXyAB2",
+          "https://drive.google.com/uc?export=view&id=1wsmPP7bH4RoF5YhF3wAow8lkLxS6II2A",
+          "https://drive.google.com/uc?export=view&id=17qWn3Rz1_ZWZ_trsATLGtu6o29mmcIJB",
+          "https://drive.google.com/uc?export=view&id=1oIZLOZS144WXEF7lpYLux0irxcrDyAPO",
+          "https://drive.google.com/uc?export=view&id=1Ky1OhPOKx2m0nzBCAZaO7EtzygQxMm-l",
+          "https://drive.google.com/uc?export=view&id=1nKkPeEvZxBXT0ZEX3O387vL0Dx1a8Oia",
+          "https://drive.google.com/uc?export=view&id=1DlVfO9MGOZykYuF1ZKogqFI4AKKnJnDv",
+          "https://drive.google.com/uc?export=view&id=1kwtnkHuewqjgFAq3eGeopLuj-Fe2k_49",
+          "https://drive.google.com/uc?export=view&id=1Zk9Z0i5qO3Eo3Qi-nMdzNJCdMJSAomx4",
+          "https://drive.google.com/uc?export=view&id=1nZliKw4-U4YXR-xeMxyyjMp9ZznBYHM7",
+          "https://drive.google.com/uc?export=view&id=17ExbTn1tYNHJ9-dw6OwUpcLAE4NOE_yu",
+          "https://drive.google.com/uc?export=view&id=1IgBvlNyIG-2ex0YRkq0ii-li8Oq5Ezdr",
+          "https://drive.google.com/uc?export=view&id=1DJ-g0eGQPI5RlVwFrowmrbYY9VlIpMMT",
+          "https://drive.google.com/uc?export=view&id=1YsGzKlIIB4tE_ISOjBJe3dldbQT-HRF3",
+          "https://drive.google.com/uc?export=view&id=1Iyo7S1W49GXcdueJTLjDNRzt3ZaH5w_6",
+          "https://drive.google.com/uc?export=view&id=1vMlG2ald13hkv_KYwxkr_lrUk3H38Sdi",
+          "https://drive.google.com/uc?export=view&id=1pZQ0EUN9YdA1mtTakm4DnKOIGBIA-5NR",
+          "https://drive.google.com/uc?export=view&id=1Lk0DULyrU3YlhpWaW1KqzqqJPJQRx05x",
+          "https://drive.google.com/uc?export=view&id=1fZF2O8hMmkKsk8m7xXg8BoEl_HaH3Y4P",
+          "https://drive.google.com/uc?export=view&id=1N46NwGlCrp36hYjOrKzpSl9JMkj-9WjH",
+          "https://drive.google.com/uc?export=view&id=1s_MVOEXZ_wGkkXmANDtjf9ScNi_wLbIt",
+          "https://drive.google.com/uc?export=view&id=1v_KDLgOxEJBVK-hDxzEekiQ_V2e1jToh",
+          "https://drive.google.com/uc?export=view&id=1Z4h71bmR6eZKXnojG-0PffpMVAT1PkFs",
+          "https://drive.google.com/uc?export=view&id=16Kv-kPwhM8zlH9WOO8KKKMI1Vk7Gt3es",
+          "https://drive.google.com/uc?export=view&id=1aR4aYuCw1P4doO9GDnv3PnRp9r_JbNTm",
+          "https://drive.google.com/uc?export=view&id=1BX5YlgSO6PEa1EEAbvbsuvw83OzTH9Qs",
+          "https://drive.google.com/uc?export=view&id=1IgJkSJOAnXTPOFYN7kdUFN49DhcFbb9X",
+          "https://drive.google.com/uc?export=view&id=1-vhmgDtIqYUxBCYPbtXu6GGITmbiqI_h",
+          "https://drive.google.com/uc?export=view&id=1pSD1B0qNx8Pujk1O1Cwdr3qagMfhrX-I",
+          "https://drive.google.com/uc?export=view&id=1Kifyu7MUsmRc6Dv00zQGDty0RuEXdlrN"
         ]
       }
     }
